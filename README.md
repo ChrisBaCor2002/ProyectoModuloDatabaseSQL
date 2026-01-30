@@ -70,12 +70,13 @@ Aplicar de forma práctica los conocimientos del módulo de Bases de Datos SQL, 
 
 ---
 
-## 👤 Autores
-**Baño Cordero Christell Nicole**
-**Mera López Mónica Lisbeth**
-**Salvatierra Samaniego Jairo Alejandro**
-**Terán García Luis Matteo**
-**Vivas Segovia Victor Augusto**
+### 👥 Autores
+
+- Baño Cordero, Christell Nicole  
+- Mera López, Mónica Lisbeth  
+- Salvatierra Samaniego, Jairo Alejandro  
+- Terán García, Luis Matteo  
+- Vivas Segovia, Víctor Augusto
 
 ---
 
